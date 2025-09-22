@@ -15,9 +15,9 @@ Implementa **CRUD de usuários** e autenticação baseada em token.
 ---
 
 ## 📂 Estrutura do Projeto
-# ├─ db.json
-# ├─ server.js
-├─ utils/
+- ├─ db.json
+- ├─ server.js
+- ├─ utils/
 │  └─ db.js
 ├─ middleware/
 │  └─ auth.js
