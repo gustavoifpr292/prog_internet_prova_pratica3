@@ -30,13 +30,13 @@ Gera um JWT válido por 1h.
 - ├─ db.json
 - ├─ server.js
 - ├─ utils/
-- │   └─ db.js
+- │     └─ db.js
 - ├─ middleware/
-- │   └─ auth.js
+- │     └─ auth.js
 - ├─ controllers/
-- │   ├─ authController.js
-- │   └─ usersController.js
-- └─ routes/
+- │    ├─ authController.js
+- │    └─ usersController.js
+-   └─ routes/
 -     ├─ auth.js
 -     └─ users.js
 
