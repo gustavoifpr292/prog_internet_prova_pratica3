@@ -5,19 +5,18 @@ Implementa **CRUD de usuários** e autenticação baseada em token.
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias Sugeridas
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 - [JWT](https://jwt.io/)
 - [bcryptjs](https://www.npmjs.com/package/bcryptjs)
 - [uuid](https://www.npmjs.com/package/uuid)
-- [Jest](https://jestjs.io/) + [Supertest](https://www.npmjs.com/package/supertest) (para testes)
 
 ---
 
 ## 📂 Estrutura do Projeto
-├─ db.json
-├─ server.js
+# ├─ db.json
+# ├─ server.js
 ├─ utils/
 │  └─ db.js
 ├─ middleware/
