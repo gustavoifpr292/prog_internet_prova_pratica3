@@ -27,16 +27,16 @@ Gera um JWT válido por 1h.
 ---
 
 ## 📂 Estrutura do Projeto
-- ├─ db.json
-- ├─ server.js
-- ├─ utils/
-- │     └─ db.js
-- ├─ middleware/
-- │     └─ auth.js
-- ├─ controllers/
-- │    ├─ authController.js
-- │    └─ usersController.js
--   └─ routes/
--     ├─ auth.js
--     └─ users.js
+     ├─ db.json
+     ├─ server.js
+     ├─ utils/
+     │     └─ db.js
+     ├─ middleware/
+     │     └─ auth.js
+     ├─ controllers/
+     │    ├─ authController.js
+     │    └─ usersController.js
+     └─ routes/
+          ├─ auth.js
+          └─ users.js
 
