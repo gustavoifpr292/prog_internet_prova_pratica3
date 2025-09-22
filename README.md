@@ -18,13 +18,13 @@ Implementa **CRUD de usuários** e autenticação baseada em token.
 - ├─ db.json
 - ├─ server.js
 - ├─ utils/
-- │  └─ db.js
+- │   └─ db.js
 - ├─ middleware/
-- │  └─ auth.js
+- │   └─ auth.js
 - ├─ controllers/
-- │  ├─ authController.js
-- │  └─ usersController.js
+- │   ├─ authController.js
+- │   └─ usersController.js
 - └─ routes/
--   ├─ auth.js
--   └─ users.js
+-    ├─ auth.js
+-    └─ users.js
 
