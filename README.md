@@ -37,6 +37,6 @@ Gera um JWT válido por 1h.
 - │   ├─ authController.js
 - │   └─ usersController.js
 - └─ routes/
--    ├─ auth.js
--    └─ users.js
+-     ├─ auth.js
+-     └─ users.js
 
