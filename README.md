@@ -2,7 +2,7 @@
 
 Desenvolver uma API BackEnd com **Node.js**, **Express**, **JWT** e persistência em **arquivo JSON**.  
 Implementar o  **CRUD de usuários** e autenticação baseada em token.
-Os teste deve ser feito utilizando Thunder Client naso respectivas rotas
+Os teste deve ser feito utilizando **Thunder Client** nas respectivas rotas
 
 # 📌 Rotas da API
 
